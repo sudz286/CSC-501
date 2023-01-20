@@ -1,0 +1,758 @@
+Blocksize: 768 
+Inode Offset: 0 
+Data offset: 4 
+Swap Offset: 10140 
+Free Inode: 28 
+Free Block: 6142 
+30 
+Next Inode: -1 
+Protect: 0 
+nlink: 0 
+size: 0 
+uid: 0 
+gid: 0 
+ctime: 0 
+mtime: 0 
+atime: 0 
+Data Block[0]: -1 
+Data Block[1]: -1 
+Data Block[2]: -1 
+Data Block[3]: -1 
+Data Block[4]: -1 
+Data Block[5]: -1 
+Data Block[6]: -1 
+Data Block[7]: -1 
+Data Block[8]: -1 
+Data Block[9]: -1 
+Indirect Block[0]: -1 
+Indirect Block[1]: -1 
+Indirect Block[2]: -1 
+Indirect Block[3]: -1 
+i2block: -1 
+i3block: -1 
+Next Inode: 0 
+Protect: 0 
+nlink: 1 
+size: 288768 
+uid: 18390 
+gid: 9921 
+ctime: 356210185 
+mtime: 1296417971 
+atime: 888736172 
+Data Block[0]: 0 
+Data Block[1]: 1 
+Data Block[2]: 2 
+Data Block[3]: 3 
+Data Block[4]: 4 
+Data Block[5]: 5 
+Data Block[6]: 6 
+Data Block[7]: 7 
+Data Block[8]: 8 
+Data Block[9]: 9 
+Indirect Block[0]: 10 
+Indirect Block[1]: 203 
+Indirect Block[2]: -1 
+Indirect Block[3]: -1 
+i2block: -1 
+i3block: -1 
+Next Inode: 0 
+Protect: 0 
+nlink: 0 
+size: 0 
+uid: 0 
+gid: 0 
+ctime: 0 
+mtime: 0 
+atime: 0 
+Data Block[0]: -1 
+Data Block[1]: -1 
+Data Block[2]: -1 
+Data Block[3]: -1 
+Data Block[4]: -1 
+Data Block[5]: -1 
+Data Block[6]: -1 
+Data Block[7]: -1 
+Data Block[8]: -1 
+Data Block[9]: -1 
+Indirect Block[0]: -1 
+Indirect Block[1]: -1 
+Indirect Block[2]: -1 
+Indirect Block[3]: -1 
+i2block: -1 
+i3block: -1 
+Next Inode: 2 
+Protect: 0 
+nlink: 0 
+size: 0 
+uid: 0 
+gid: 0 
+ctime: 0 
+mtime: 0 
+atime: 0 
+Data Block[0]: -1 
+Data Block[1]: -1 
+Data Block[2]: -1 
+Data Block[3]: -1 
+Data Block[4]: -1 
+Data Block[5]: -1 
+Data Block[6]: -1 
+Data Block[7]: -1 
+Data Block[8]: -1 
+Data Block[9]: -1 
+Indirect Block[0]: -1 
+Indirect Block[1]: -1 
+Indirect Block[2]: -1 
+Indirect Block[3]: -1 
+i2block: -1 
+i3block: -1 
+Next Inode: 0 
+Protect: 0 
+nlink: 1 
+size: 2949393 
+uid: 18390 
+gid: 9921 
+ctime: 1060413080 
+mtime: 531876808 
+atime: 479559653 
+Data Block[0]: 378 
+Data Block[1]: 379 
+Data Block[2]: 380 
+Data Block[3]: 381 
+Data Block[4]: 382 
+Data Block[5]: 383 
+Data Block[6]: 384 
+Data Block[7]: 385 
+Data Block[8]: 386 
+Data Block[9]: 387 
+Indirect Block[0]: 388 
+Indirect Block[1]: 581 
+Indirect Block[2]: 774 
+Indirect Block[3]: 967 
+i2block: 1160 
+i3block: -1 
+Next Inode: 3 
+Protect: 0 
+nlink: 0 
+size: 0 
+uid: 0 
+gid: 0 
+ctime: 0 
+mtime: 0 
+atime: 0 
+Data Block[0]: -1 
+Data Block[1]: -1 
+Data Block[2]: -1 
+Data Block[3]: -1 
+Data Block[4]: -1 
+Data Block[5]: -1 
+Data Block[6]: -1 
+Data Block[7]: -1 
+Data Block[8]: -1 
+Data Block[9]: -1 
+Indirect Block[0]: -1 
+Indirect Block[1]: -1 
+Indirect Block[2]: -1 
+Indirect Block[3]: -1 
+i2block: -1 
+i3block: -1 
+Next Inode: 5 
+Protect: 0 
+nlink: 0 
+size: 0 
+uid: 0 
+gid: 0 
+ctime: 0 
+mtime: 0 
+atime: 0 
+Data Block[0]: -1 
+Data Block[1]: -1 
+Data Block[2]: -1 
+Data Block[3]: -1 
+Data Block[4]: -1 
+Data Block[5]: -1 
+Data Block[6]: -1 
+Data Block[7]: -1 
+Data Block[8]: -1 
+Data Block[9]: -1 
+Indirect Block[0]: -1 
+Indirect Block[1]: -1 
+Indirect Block[2]: -1 
+Indirect Block[3]: -1 
+i2block: -1 
+i3block: -1 
+Next Inode: 6 
+Protect: 0 
+nlink: 0 
+size: 0 
+uid: 0 
+gid: 0 
+ctime: 0 
+mtime: 0 
+atime: 0 
+Data Block[0]: -1 
+Data Block[1]: -1 
+Data Block[2]: -1 
+Data Block[3]: -1 
+Data Block[4]: -1 
+Data Block[5]: -1 
+Data Block[6]: -1 
+Data Block[7]: -1 
+Data Block[8]: -1 
+Data Block[9]: -1 
+Indirect Block[0]: -1 
+Indirect Block[1]: -1 
+Indirect Block[2]: -1 
+Indirect Block[3]: -1 
+i2block: -1 
+i3block: -1 
+Next Inode: 7 
+Protect: 0 
+nlink: 0 
+size: 0 
+uid: 0 
+gid: 0 
+ctime: 0 
+mtime: 0 
+atime: 0 
+Data Block[0]: -1 
+Data Block[1]: -1 
+Data Block[2]: -1 
+Data Block[3]: -1 
+Data Block[4]: -1 
+Data Block[5]: -1 
+Data Block[6]: -1 
+Data Block[7]: -1 
+Data Block[8]: -1 
+Data Block[9]: -1 
+Indirect Block[0]: -1 
+Indirect Block[1]: -1 
+Indirect Block[2]: -1 
+Indirect Block[3]: -1 
+i2block: -1 
+i3block: -1 
+Next Inode: 8 
+Protect: 0 
+nlink: 0 
+size: 0 
+uid: 0 
+gid: 0 
+ctime: 0 
+mtime: 0 
+atime: 0 
+Data Block[0]: -1 
+Data Block[1]: -1 
+Data Block[2]: -1 
+Data Block[3]: -1 
+Data Block[4]: -1 
+Data Block[5]: -1 
+Data Block[6]: -1 
+Data Block[7]: -1 
+Data Block[8]: -1 
+Data Block[9]: -1 
+Indirect Block[0]: -1 
+Indirect Block[1]: -1 
+Indirect Block[2]: -1 
+Indirect Block[3]: -1 
+i2block: -1 
+i3block: -1 
+Next Inode: 9 
+Protect: 0 
+nlink: 0 
+size: 0 
+uid: 0 
+gid: 0 
+ctime: 0 
+mtime: 0 
+atime: 0 
+Data Block[0]: -1 
+Data Block[1]: -1 
+Data Block[2]: -1 
+Data Block[3]: -1 
+Data Block[4]: -1 
+Data Block[5]: -1 
+Data Block[6]: -1 
+Data Block[7]: -1 
+Data Block[8]: -1 
+Data Block[9]: -1 
+Indirect Block[0]: -1 
+Indirect Block[1]: -1 
+Indirect Block[2]: -1 
+Indirect Block[3]: -1 
+i2block: -1 
+i3block: -1 
+Next Inode: 10 
+Protect: 0 
+nlink: 0 
+size: 0 
+uid: 0 
+gid: 0 
+ctime: 0 
+mtime: 0 
+atime: 0 
+Data Block[0]: -1 
+Data Block[1]: -1 
+Data Block[2]: -1 
+Data Block[3]: -1 
+Data Block[4]: -1 
+Data Block[5]: -1 
+Data Block[6]: -1 
+Data Block[7]: -1 
+Data Block[8]: -1 
+Data Block[9]: -1 
+Indirect Block[0]: -1 
+Indirect Block[1]: -1 
+Indirect Block[2]: -1 
+Indirect Block[3]: -1 
+i2block: -1 
+i3block: -1 
+Next Inode: 11 
+Protect: 0 
+nlink: 0 
+size: 0 
+uid: 0 
+gid: 0 
+ctime: 0 
+mtime: 0 
+atime: 0 
+Data Block[0]: -1 
+Data Block[1]: -1 
+Data Block[2]: -1 
+Data Block[3]: -1 
+Data Block[4]: -1 
+Data Block[5]: -1 
+Data Block[6]: -1 
+Data Block[7]: -1 
+Data Block[8]: -1 
+Data Block[9]: -1 
+Indirect Block[0]: -1 
+Indirect Block[1]: -1 
+Indirect Block[2]: -1 
+Indirect Block[3]: -1 
+i2block: -1 
+i3block: -1 
+Next Inode: 0 
+Protect: 0 
+nlink: 1 
+size: 364422 
+uid: 18390 
+gid: 9921 
+ctime: 1822953578 
+mtime: 780809122 
+atime: 347586802 
+Data Block[0]: 4240 
+Data Block[1]: 4241 
+Data Block[2]: 4242 
+Data Block[3]: 4243 
+Data Block[4]: 4244 
+Data Block[5]: 4245 
+Data Block[6]: 4246 
+Data Block[7]: 4247 
+Data Block[8]: 4248 
+Data Block[9]: 4249 
+Indirect Block[0]: 4250 
+Indirect Block[1]: 4443 
+Indirect Block[2]: 4636 
+Indirect Block[3]: -1 
+i2block: -1 
+i3block: -1 
+Next Inode: 0 
+Protect: 0 
+nlink: 1 
+size: 182086 
+uid: 18390 
+gid: 9921 
+ctime: 1258355946 
+mtime: 381814821 
+atime: 1063689499 
+Data Block[0]: 4718 
+Data Block[1]: 4719 
+Data Block[2]: 4720 
+Data Block[3]: 4721 
+Data Block[4]: 4722 
+Data Block[5]: 4723 
+Data Block[6]: 4724 
+Data Block[7]: 4725 
+Data Block[8]: 4726 
+Data Block[9]: 4727 
+Indirect Block[0]: 4728 
+Indirect Block[1]: 4921 
+Indirect Block[2]: -1 
+Indirect Block[3]: -1 
+i2block: -1 
+i3block: -1 
+Next Inode: 12 
+Protect: 0 
+nlink: 0 
+size: 0 
+uid: 0 
+gid: 0 
+ctime: 0 
+mtime: 0 
+atime: 0 
+Data Block[0]: -1 
+Data Block[1]: -1 
+Data Block[2]: -1 
+Data Block[3]: -1 
+Data Block[4]: -1 
+Data Block[5]: -1 
+Data Block[6]: -1 
+Data Block[7]: -1 
+Data Block[8]: -1 
+Data Block[9]: -1 
+Indirect Block[0]: -1 
+Indirect Block[1]: -1 
+Indirect Block[2]: -1 
+Indirect Block[3]: -1 
+i2block: -1 
+i3block: -1 
+Next Inode: 0 
+Protect: 0 
+nlink: 1 
+size: 545484 
+uid: 18390 
+gid: 9921 
+ctime: 179956350 
+mtime: 729685958 
+atime: 1261544446 
+Data Block[0]: 4958 
+Data Block[1]: 4959 
+Data Block[2]: 4960 
+Data Block[3]: 4961 
+Data Block[4]: 4962 
+Data Block[5]: 4963 
+Data Block[6]: 4964 
+Data Block[7]: 4965 
+Data Block[8]: 4966 
+Data Block[9]: 4967 
+Indirect Block[0]: 4968 
+Indirect Block[1]: 5161 
+Indirect Block[2]: 5354 
+Indirect Block[3]: 5547 
+i2block: -1 
+i3block: -1 
+Next Inode: 15 
+Protect: 0 
+nlink: 0 
+size: 0 
+uid: 0 
+gid: 0 
+ctime: 0 
+mtime: 0 
+atime: 0 
+Data Block[0]: -1 
+Data Block[1]: -1 
+Data Block[2]: -1 
+Data Block[3]: -1 
+Data Block[4]: -1 
+Data Block[5]: -1 
+Data Block[6]: -1 
+Data Block[7]: -1 
+Data Block[8]: -1 
+Data Block[9]: -1 
+Indirect Block[0]: -1 
+Indirect Block[1]: -1 
+Indirect Block[2]: -1 
+Indirect Block[3]: -1 
+i2block: -1 
+i3block: -1 
+Next Inode: 17 
+Protect: 0 
+nlink: 0 
+size: 0 
+uid: 0 
+gid: 0 
+ctime: 0 
+mtime: 0 
+atime: 0 
+Data Block[0]: -1 
+Data Block[1]: -1 
+Data Block[2]: -1 
+Data Block[3]: -1 
+Data Block[4]: -1 
+Data Block[5]: -1 
+Data Block[6]: -1 
+Data Block[7]: -1 
+Data Block[8]: -1 
+Data Block[9]: -1 
+Indirect Block[0]: -1 
+Indirect Block[1]: -1 
+Indirect Block[2]: -1 
+Indirect Block[3]: -1 
+i2block: -1 
+i3block: -1 
+Next Inode: 18 
+Protect: 0 
+nlink: 0 
+size: 0 
+uid: 0 
+gid: 0 
+ctime: 0 
+mtime: 0 
+atime: 0 
+Data Block[0]: -1 
+Data Block[1]: -1 
+Data Block[2]: -1 
+Data Block[3]: -1 
+Data Block[4]: -1 
+Data Block[5]: -1 
+Data Block[6]: -1 
+Data Block[7]: -1 
+Data Block[8]: -1 
+Data Block[9]: -1 
+Indirect Block[0]: -1 
+Indirect Block[1]: -1 
+Indirect Block[2]: -1 
+Indirect Block[3]: -1 
+i2block: -1 
+i3block: -1 
+Next Inode: 19 
+Protect: 0 
+nlink: 0 
+size: 0 
+uid: 0 
+gid: 0 
+ctime: 0 
+mtime: 0 
+atime: 0 
+Data Block[0]: -1 
+Data Block[1]: -1 
+Data Block[2]: -1 
+Data Block[3]: -1 
+Data Block[4]: -1 
+Data Block[5]: -1 
+Data Block[6]: -1 
+Data Block[7]: -1 
+Data Block[8]: -1 
+Data Block[9]: -1 
+Indirect Block[0]: -1 
+Indirect Block[1]: -1 
+Indirect Block[2]: -1 
+Indirect Block[3]: -1 
+i2block: -1 
+i3block: -1 
+Next Inode: 20 
+Protect: 0 
+nlink: 0 
+size: 0 
+uid: 0 
+gid: 0 
+ctime: 0 
+mtime: 0 
+atime: 0 
+Data Block[0]: -1 
+Data Block[1]: -1 
+Data Block[2]: -1 
+Data Block[3]: -1 
+Data Block[4]: -1 
+Data Block[5]: -1 
+Data Block[6]: -1 
+Data Block[7]: -1 
+Data Block[8]: -1 
+Data Block[9]: -1 
+Indirect Block[0]: -1 
+Indirect Block[1]: -1 
+Indirect Block[2]: -1 
+Indirect Block[3]: -1 
+i2block: -1 
+i3block: -1 
+Next Inode: 21 
+Protect: 0 
+nlink: 0 
+size: 0 
+uid: 0 
+gid: 0 
+ctime: 0 
+mtime: 0 
+atime: 0 
+Data Block[0]: -1 
+Data Block[1]: -1 
+Data Block[2]: -1 
+Data Block[3]: -1 
+Data Block[4]: -1 
+Data Block[5]: -1 
+Data Block[6]: -1 
+Data Block[7]: -1 
+Data Block[8]: -1 
+Data Block[9]: -1 
+Indirect Block[0]: -1 
+Indirect Block[1]: -1 
+Indirect Block[2]: -1 
+Indirect Block[3]: -1 
+i2block: -1 
+i3block: -1 
+Next Inode: 22 
+Protect: 0 
+nlink: 0 
+size: 0 
+uid: 0 
+gid: 0 
+ctime: 0 
+mtime: 0 
+atime: 0 
+Data Block[0]: -1 
+Data Block[1]: -1 
+Data Block[2]: -1 
+Data Block[3]: -1 
+Data Block[4]: -1 
+Data Block[5]: -1 
+Data Block[6]: -1 
+Data Block[7]: -1 
+Data Block[8]: -1 
+Data Block[9]: -1 
+Indirect Block[0]: -1 
+Indirect Block[1]: -1 
+Indirect Block[2]: -1 
+Indirect Block[3]: -1 
+i2block: -1 
+i3block: -1 
+Next Inode: 0 
+Protect: 0 
+nlink: 1 
+size: 156672 
+uid: 18390 
+gid: 9921 
+ctime: 1613954455 
+mtime: 2136652167 
+atime: 1311259621 
+Data Block[0]: 5673 
+Data Block[1]: 5674 
+Data Block[2]: 5675 
+Data Block[3]: 5676 
+Data Block[4]: 5677 
+Data Block[5]: 5678 
+Data Block[6]: 5679 
+Data Block[7]: 5680 
+Data Block[8]: 5681 
+Data Block[9]: 5682 
+Indirect Block[0]: 5683 
+Indirect Block[1]: 5876 
+Indirect Block[2]: -1 
+Indirect Block[3]: -1 
+i2block: -1 
+i3block: -1 
+Next Inode: 0 
+Protect: 0 
+nlink: 1 
+size: 108475 
+uid: 18390 
+gid: 9921 
+ctime: 102337069 
+mtime: 115089592 
+atime: 610411587 
+Data Block[0]: 5879 
+Data Block[1]: 5880 
+Data Block[2]: 5881 
+Data Block[3]: 5882 
+Data Block[4]: 5883 
+Data Block[5]: 5884 
+Data Block[6]: 5885 
+Data Block[7]: 5886 
+Data Block[8]: 5887 
+Data Block[9]: 5888 
+Indirect Block[0]: 5889 
+Indirect Block[1]: -1 
+Indirect Block[2]: -1 
+Indirect Block[3]: -1 
+i2block: -1 
+i3block: -1 
+Next Inode: 23 
+Protect: 0 
+nlink: 0 
+size: 0 
+uid: 0 
+gid: 0 
+ctime: 0 
+mtime: 0 
+atime: 0 
+Data Block[0]: -1 
+Data Block[1]: -1 
+Data Block[2]: -1 
+Data Block[3]: -1 
+Data Block[4]: -1 
+Data Block[5]: -1 
+Data Block[6]: -1 
+Data Block[7]: -1 
+Data Block[8]: -1 
+Data Block[9]: -1 
+Indirect Block[0]: -1 
+Indirect Block[1]: -1 
+Indirect Block[2]: -1 
+Indirect Block[3]: -1 
+i2block: -1 
+i3block: -1 
+Next Inode: 26 
+Protect: 0 
+nlink: 0 
+size: 0 
+uid: 0 
+gid: 0 
+ctime: 0 
+mtime: 0 
+atime: 0 
+Data Block[0]: -1 
+Data Block[1]: -1 
+Data Block[2]: -1 
+Data Block[3]: -1 
+Data Block[4]: -1 
+Data Block[5]: -1 
+Data Block[6]: -1 
+Data Block[7]: -1 
+Data Block[8]: -1 
+Data Block[9]: -1 
+Indirect Block[0]: -1 
+Indirect Block[1]: -1 
+Indirect Block[2]: -1 
+Indirect Block[3]: -1 
+i2block: -1 
+i3block: -1 
+Next Inode: 27 
+Protect: 0 
+nlink: 0 
+size: 0 
+uid: 0 
+gid: 0 
+ctime: 0 
+mtime: 0 
+atime: 0 
+Data Block[0]: -1 
+Data Block[1]: -1 
+Data Block[2]: -1 
+Data Block[3]: -1 
+Data Block[4]: -1 
+Data Block[5]: -1 
+Data Block[6]: -1 
+Data Block[7]: -1 
+Data Block[8]: -1 
+Data Block[9]: -1 
+Indirect Block[0]: -1 
+Indirect Block[1]: -1 
+Indirect Block[2]: -1 
+Indirect Block[3]: -1 
+i2block: -1 
+i3block: -1 
+Next Inode: 0 
+Protect: 0 
+nlink: 1 
+size: 91333 
+uid: 18390 
+gid: 9921 
+ctime: 1733676484 
+mtime: 398061886 
+atime: 937238893 
+Data Block[0]: 6022 
+Data Block[1]: 6023 
+Data Block[2]: 6024 
+Data Block[3]: 6025 
+Data Block[4]: 6026 
+Data Block[5]: 6027 
+Data Block[6]: 6028 
+Data Block[7]: 6029 
+Data Block[8]: 6030 
+Data Block[9]: 6031 
+Indirect Block[0]: 6032 
+Indirect Block[1]: -1 
+Indirect Block[2]: -1 
+Indirect Block[3]: -1 
+i2block: -1 
+i3block: -1 
+Number of used inodes: 9Number of free inodes: 21

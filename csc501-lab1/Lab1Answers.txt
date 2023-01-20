@@ -1,0 +1,35 @@
+1. 
+Exponential Distribution Scheduler
+    Advantages:
+    1. Prevents starvation from occurring since the criteria upon which the process is scheduled follows the exponential distribution.
+    2. Priorities can be allotted to processes based on the lambda coefficient since it is a known quantity. In the example given in testmain.c, we know that since Lambda = 0.1, there is a greater chance that a process with priority 10 runs the most amount of time.
+
+    Disadvantages:
+    1. Since the scheduler follows exponential distribution, processes with lower priority hog CPU time longer.
+    2. Response time is unpredictable since we do not know when the process will first start. Preemptive schedulers offer better performance in this regard.
+
+LINUX Based Scheduler
+    Advantages:
+    1. Offers close to zero response time since it is a preemptive scheduler.
+    2. Starvation is prevented since a fixed amount of time is allotted to each process every epoch.
+
+    Disadvantages:
+    1. Turnaround time is extremely large since processes with the lowest of priorities get CPU time every epoch.
+
+XINU Scheduler:
+    Advantages:
+    1. Simple scheduler that is easy to implement that prioritizes the process with largest priority. Peak performance when only one power intensive process runs.
+
+    Disadvantages:
+    1. Starvation occurs since there is a chance processes with lower priorities might never get CPU time.
+    2. Turnaround time and response times for processes with lower priorities are very large.
+
+2. 
+Exponential Distribution Scheduler
+NULL process is given CPU time when no other process is being executed.
+
+LINUX Based Scheduler
+NULL process runs in a given epoch whenever every other process in the ready queue has exhausted its time quantum
+
+XINU Scheduler
+NULL process runs if and only if there is no other process in the ready queue.
